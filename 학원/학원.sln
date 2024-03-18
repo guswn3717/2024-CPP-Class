@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "학원", "학원\학원.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class2th(constant)", "Class2th(constant)\Class2th(constant).vcxproj", "{7B32F577-D468-475C-91CC-BBEF4CFD07E5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class3th (Bit)", "Class3th (Bit)\Class3th (Bit).vcxproj", "{BF1CED3E-84A6-488B-BBD2-EF51D0785D0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{7B32F577-D468-475C-91CC-BBEF4CFD07E5}.Release|x64.Build.0 = Release|x64
 		{7B32F577-D468-475C-91CC-BBEF4CFD07E5}.Release|x86.ActiveCfg = Release|Win32
 		{7B32F577-D468-475C-91CC-BBEF4CFD07E5}.Release|x86.Build.0 = Release|Win32
+		{BF1CED3E-84A6-488B-BBD2-EF51D0785D0D}.Debug|x64.ActiveCfg = Debug|x64
+		{BF1CED3E-84A6-488B-BBD2-EF51D0785D0D}.Debug|x64.Build.0 = Debug|x64
+		{BF1CED3E-84A6-488B-BBD2-EF51D0785D0D}.Debug|x86.ActiveCfg = Debug|Win32
+		{BF1CED3E-84A6-488B-BBD2-EF51D0785D0D}.Debug|x86.Build.0 = Debug|Win32
+		{BF1CED3E-84A6-488B-BBD2-EF51D0785D0D}.Release|x64.ActiveCfg = Release|x64
+		{BF1CED3E-84A6-488B-BBD2-EF51D0785D0D}.Release|x64.Build.0 = Release|x64
+		{BF1CED3E-84A6-488B-BBD2-EF51D0785D0D}.Release|x86.ActiveCfg = Release|Win32
+		{BF1CED3E-84A6-488B-BBD2-EF51D0785D0D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

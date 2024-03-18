@@ -174,8 +174,14 @@ int main()
 	//3. int(restul3) 변수 = 변수 * 심볼릭 상수
 	//3. int(restul3) 변수 = 변수 / 심볼릭 상수
 
-	const int ae = 86;
-	int AE = 85;
+	int FD = 32; //변수
+	const int sil = 80; //심볼릭
+
+	puts("");
+	printf("%d = %d + %d\n", sil + 34, sil, 34);
+	printf("%d = %d - %d\n", 34 - 86, 34, 86);
+	printf("%d = %d * %d\n", FD * sil, FD, sil);
+	printf("%d = %d / %d\n", FD / sil, FD, sil);
 
 
 #pragma endregion
