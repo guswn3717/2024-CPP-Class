@@ -7,10 +7,10 @@ int main()
 	/*어떤 조건이 주어질 때 해당 조건에 따라
 	동작을 수행하도록 생행하는 명령문 입니다*/
 
-#pragma region 관계연산자
+#pragma region 관계연산자(주석)
 	//두 개의 피연산자의 값을 비교하여 그 결과를
 	//0 또는 1이라는 값으로 나타내는 연산자 입니다
-
+	/*
 	int result = 0;
 
 	result = 10 > 5;
@@ -36,42 +36,42 @@ int main()
 	result = 10 != 10;
 
 	printf("result 변수의 값 : %d\n", result);
-
+	*/
 	/*관꼐 연산자는 조건이 맞을 때 1이라는 값으로
 	반환하며 조건이 틀릴때 0이라는 갑승로 반환합니다*/
-
+	
 #pragma endregion
 	
-#pragma region if 문
+#pragma region if 문(주석)
 	/*어떤 특정한 조건을 비교하여 조건이 맞다면
 	실행되는 명령문입니다*/
-
+	/*
 	int count = 5;
 
 	if (count == 5)
 		printf("if 문의 조건이 '참'입니다\n");
-
+		*/
 	/*if문은 조건이 1일때 실행되며, 0일 때 실행되지 않습니다*/
 
 #pragma endregion
 
-#pragma region else if문
+#pragma region else if문(주석)
 	/*if문의 조건이 틀릴 때 else if문의 조건이
 	맞다면 실행되는 명령문 입니다*/
-
+	/*
 	int level = 99;
 
 	if (level == 81)
 		printf("1차 전직 \n");
 	else if (level <= 99)
 		printf("2차 전직\n");
-
+		*/
 #pragma endregion
 
-#pragma region else문
+#pragma region else문(주석)
 	/*if문과 else if 문의 조건이 다 틀리면
 	실행되는 명령문 입니다*/
-
+	/*
 	int health = 100;
 
 	if (health <= 0)
@@ -80,7 +80,7 @@ int main()
 		printf("Error 404\n");
 	else
 		printf("Game Object\n");
-
+		*/
 	/*if문에 연결된 모든 조건문의 조건이 같다면
 	가장 위에 있는 조건문만 실행됩니다*/
 #pragma endregion
@@ -117,7 +117,7 @@ int main()
 
 #pragma endregion
 
-#pragma region break문 (주석)
+#pragma region break문(주석)
 	/*특정한 지점에서 분기를 탈출하는 제어문 입니다*/
 
 	/*
@@ -148,11 +148,11 @@ int main()
 
 #pragma endregion
 
-#pragma region 논리 연산자
+#pragma region 논리 연산자(주석)
 
 	//AND 논리 연산자
 
-	
+	/*
 	int flag = 0;
 	int damage = 10;
 	char blood = 'o';
@@ -165,16 +165,53 @@ int main()
 
 	if (!flag)
 		printf("NOT 논리 연산자\n");
-	
+	*/
 #pragma endregion
 
 #pragma endregion
 
 #pragma region 사분면
+/*
+	int x, y;
+	printf("x값 입력 : ");
+	scanf_s("%d", &x);
+	printf("y값 입력 : ");
+	scanf_s("%d", &y);
 
-	
-
-
+	if (x == 0)
+	{
+		if (y == 0)
+			printf("원점\n");
+		else if (y > 0)
+			printf("+y\n");
+		else
+			printf("-y\n");
+	}
+	else if (y == 0)
+	{
+		if (x > 0)
+			printf("+x\n");
+		else
+			printf("-x\n");
+	}
+	else
+	{
+		if (x > 0)
+		{
+			if (y > 0)
+				printf("제 1사분면\n");
+			else
+				printf("제 4사분면\n");
+		}
+		else
+		{
+			if (y > 0)
+				printf("제 2사분면\n");
+			else
+				printf("제 3사분면\n");
+		}
+	}
+*/
 #pragma endregion
 
 

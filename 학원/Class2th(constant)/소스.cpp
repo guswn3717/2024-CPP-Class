@@ -16,7 +16,7 @@
 
 #include <iostream>
 #include <stdio.h>
-#include "../ÇÐ¿ø/data.h"
+#include "../Class1th/data.h"
 
 int main()
 
