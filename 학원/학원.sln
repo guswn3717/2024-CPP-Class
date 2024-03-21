@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "학원", "학원\학원.vcxproj", "{21F92126-33E9-4594-8700-5542D5B65B3E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class1th", "학원\학원.vcxproj", "{21F92126-33E9-4594-8700-5542D5B65B3E}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class2th(constant)", "Class2th(constant)\Class2th(constant).vcxproj", "{7B32F577-D468-475C-91CC-BBEF4CFD07E5}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class2th", "Class2th(constant)\Class2th(constant).vcxproj", "{7B32F577-D468-475C-91CC-BBEF4CFD07E5}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class3th (Bit)", "Class3th (Bit)\Class3th (Bit).vcxproj", "{BF1CED3E-84A6-488B-BBD2-EF51D0785D0D}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class3th", "Class3th (Bit)\Class3th (Bit).vcxproj", "{BF1CED3E-84A6-488B-BBD2-EF51D0785D0D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class4th (Overflow  & underflow", "Class4th (Overflow  & underflow\Class4th (Overflow  & underflow.vcxproj", "{A54930BD-893E-4C95-930F-BAB6DA4D0FB8}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class4th", "Class4th (Overflow  & underflow\Class4th (Overflow  & underflow.vcxproj", "{A54930BD-893E-4C95-930F-BAB6DA4D0FB8}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class5th", "Class5th\Class5th.vcxproj", "{3FE61878-A3B2-4515-9793-2E6CCAF70985}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class6th", "Class6th\Class6th.vcxproj", "{4C61BE8B-07F9-470D-9983-4FF432C73430}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,14 @@ Global
 		{3FE61878-A3B2-4515-9793-2E6CCAF70985}.Release|x64.Build.0 = Release|x64
 		{3FE61878-A3B2-4515-9793-2E6CCAF70985}.Release|x86.ActiveCfg = Release|Win32
 		{3FE61878-A3B2-4515-9793-2E6CCAF70985}.Release|x86.Build.0 = Release|Win32
+		{4C61BE8B-07F9-470D-9983-4FF432C73430}.Debug|x64.ActiveCfg = Debug|x64
+		{4C61BE8B-07F9-470D-9983-4FF432C73430}.Debug|x64.Build.0 = Debug|x64
+		{4C61BE8B-07F9-470D-9983-4FF432C73430}.Debug|x86.ActiveCfg = Debug|Win32
+		{4C61BE8B-07F9-470D-9983-4FF432C73430}.Debug|x86.Build.0 = Debug|Win32
+		{4C61BE8B-07F9-470D-9983-4FF432C73430}.Release|x64.ActiveCfg = Release|x64
+		{4C61BE8B-07F9-470D-9983-4FF432C73430}.Release|x64.Build.0 = Release|x64
+		{4C61BE8B-07F9-470D-9983-4FF432C73430}.Release|x86.ActiveCfg = Release|Win32
+		{4C61BE8B-07F9-470D-9983-4FF432C73430}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
