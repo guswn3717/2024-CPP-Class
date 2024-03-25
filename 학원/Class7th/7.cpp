@@ -117,6 +117,21 @@ int main()
 	printf("cptr의 값 : %p\n", cptr);
 	*/
 
+#pragma region 포인터 상수화
+
+	//int v = 10;
+	//int w = 20;
+	//
+	//int* const reference = &v;
+	//
+	//*reference = 100;
+	//
+	//printf("v변수의 값 : %d\n", v);
+
+#pragma endregion
+
+
+
 #pragma endregion
 
 
