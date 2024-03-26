@@ -1,0 +1,4 @@
+﻿  9.cpp
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class9th\9.cpp(96,9): error C2440: '=': 'const char [14]'에서 'void *'(으)로 변환할 수 없습니다.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class9th\9.cpp(96,9): message : 변환하면서 한정자가 손실됩니다.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class9th\9.cpp(98,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'void *'입니다.
