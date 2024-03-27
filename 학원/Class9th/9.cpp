@@ -83,19 +83,19 @@ int main()
 	/*범용 포인터는 메모리 주소에 접근해서
 	값을 변경할 수 없습니다*/
 
-	*(int*)vptr = 1000;
-
-	printf("data 변수의 값 : %d\n", data);
-
-	vptr = &health;
-
-	*(float*)vptr = 100.0f;
-
-	printf("health 변수의 값 : %f\n", health);
-
-	vptr = "Visual Studio";
-
-	printf("vptr이 가리키는 값 : %s\n", vptr);
+	//*(int*)vptr = 1000;
+	//
+	//printf("data 변수의 값 : %d\n", data);
+	//
+	//vptr = &health;
+	//
+	//*(float*)vptr = 100.0f;
+	//
+	//printf("health 변수의 값 : %f\n", health);
+	//
+	//vptr = "Visual Studio";
+	//
+	//printf("vptr이 가리키는 값 : %s\n", vptr);
 
 	/*범용포인터로 변수의 메모리에 접근하려면 
 	범용 포인터가 가리키는 변수의 자료형으로
