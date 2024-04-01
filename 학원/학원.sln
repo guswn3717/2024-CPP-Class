@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class12th", "Class12th\Clas
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "더미", "더미\더미.vcxproj", "{9DAFBF56-E8BF-4E9A-B881-AB98C327C933}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class13th", "Class13th\Class13th.vcxproj", "{11C7A004-13D8-45FE-93A5-B6A01F0D04FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{9DAFBF56-E8BF-4E9A-B881-AB98C327C933}.Release|x64.Build.0 = Release|x64
 		{9DAFBF56-E8BF-4E9A-B881-AB98C327C933}.Release|x86.ActiveCfg = Release|Win32
 		{9DAFBF56-E8BF-4E9A-B881-AB98C327C933}.Release|x86.Build.0 = Release|Win32
+		{11C7A004-13D8-45FE-93A5-B6A01F0D04FE}.Debug|x64.ActiveCfg = Debug|x64
+		{11C7A004-13D8-45FE-93A5-B6A01F0D04FE}.Debug|x64.Build.0 = Debug|x64
+		{11C7A004-13D8-45FE-93A5-B6A01F0D04FE}.Debug|x86.ActiveCfg = Debug|Win32
+		{11C7A004-13D8-45FE-93A5-B6A01F0D04FE}.Debug|x86.Build.0 = Debug|Win32
+		{11C7A004-13D8-45FE-93A5-B6A01F0D04FE}.Release|x64.ActiveCfg = Release|x64
+		{11C7A004-13D8-45FE-93A5-B6A01F0D04FE}.Release|x64.Build.0 = Release|x64
+		{11C7A004-13D8-45FE-93A5-B6A01F0D04FE}.Release|x86.ActiveCfg = Release|Win32
+		{11C7A004-13D8-45FE-93A5-B6A01F0D04FE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

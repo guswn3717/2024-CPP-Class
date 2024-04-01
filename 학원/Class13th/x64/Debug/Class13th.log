@@ -1,0 +1,5 @@
+﻿  13.cpp
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class13th\13.cpp(72,7): error C2374: 'arrPtr': 재정의. 여러 번 초기화했습니다.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class13th\13.cpp(61,7): message : 'arrPtr' 선언을 참조하십시오.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class13th\13.cpp(74,6): error C2374: 'size': 재정의. 여러 번 초기화했습니다.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class13th\13.cpp(63,6): message : 'size' 선언을 참조하십시오.
