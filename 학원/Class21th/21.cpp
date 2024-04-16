@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "Character.h"
+#include "Keybord.h"
 
 
 char maze[WIDTH][HEIGHT];
@@ -36,7 +36,9 @@ void Renderer()
             else if (maze[i][j] == '0')
                 printf("бр");
             else if (maze[i][j] == '2')
+            {
                 printf("б▌");
+            }
         }
         printf("\n");
     }
@@ -55,9 +57,13 @@ int main()
     {
         Renderer();
 
+        Input(maze, &character);
+
         GotoXY(character.x, character.y);
         printf("%s", character.shape);
     
+        Sleep(50);
+
         system("cls");
     }
 

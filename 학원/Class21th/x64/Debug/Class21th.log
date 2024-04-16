@@ -1,1 +1,15 @@
-﻿  Class21th.vcxproj -> C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\x64\Debug\Class21th.exe
+﻿  21.cpp
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class21th\Character.h(12,24): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class21th\Character.h(12,27): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class21th\21.cpp(15,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class21th\21.cpp(16,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class21th\21.cpp(17,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class21th\21.cpp(18,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class21th\21.cpp(19,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class21th\21.cpp(20,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class21th\21.cpp(21,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class21th\21.cpp(22,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class21th\21.cpp(23,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class21th\21.cpp(24,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\Class21th\21.cpp(25,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Class21th.vcxproj -> C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\x64\Debug\Class21th.exe
