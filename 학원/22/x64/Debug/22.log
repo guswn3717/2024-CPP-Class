@@ -1,11 +1,13 @@
 ﻿  22.cpp
-C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\22\22.cpp(20,24): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\22\22.cpp(20,27): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\22\22.cpp(28,20): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\22\22.cpp(28,27): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\22\22.cpp(30,36): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\22\22.cpp(30,48): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\22\22.cpp(82,24): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\22\22.cpp(82,27): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\22\22.cpp(95,15): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  22.vcxproj -> C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\x64\Debug\Class22th.exe
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\22\22.cpp(29,21): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\22\22.cpp(29,24): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\22\22.cpp(39,17): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\22\22.cpp(39,24): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\22\22.cpp(42,34): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\22\22.cpp(42,46): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\22\22.cpp(122,21): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\22\22.cpp(122,24): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\22\22.cpp(136,9): warning C4267: '인수': 'size_t'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\22\22.cpp(172,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1134,5): error MSB6006: "link.exe"이(가) 종료되었습니다(코드: 1168).
+LINK : fatal error LNK1168: C:\Users\rudal\OneDrive\문서\GitHub\desktop-tutorial\학원\x64\Debug\Class22th.exe을(를) 쓰기용으로 열 수 없습니다.
